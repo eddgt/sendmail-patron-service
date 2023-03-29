@@ -2,9 +2,14 @@
 
 ### Node.js 14.18.0
 
-1 git clone clone
+## dev
+1. yarn install
 
-2 yarn install
+2. yarn run dev
 
-3 yarn dev
+
+## prod
+1. yarn run build
+
+2. yarn run start
 
